@@ -17,3 +17,4 @@ dependencyResolutionManagement {
 rootProject.name = "library-demo"
 include ':app'
 include ':app:currency-exchange'
+include ':mylibrary'

@@ -1,4 +1,4 @@
-package com.example.currency_exchange
+package com.example.mylibrary
 
 import org.junit.Test
 
